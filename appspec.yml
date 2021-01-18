@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /
-  - desitionation: /var/www/html/shoutbox
+  desitionation: /var/www/html/shoutbox
